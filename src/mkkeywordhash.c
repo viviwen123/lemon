@@ -235,11 +235,10 @@ static Keyword aKeywordTable[] = {
   { "SESSION",          "TK_SESSION",      ALWAYS                 },
   { "CHARACTER",        "TK_CHARACTER",    ALWAYS                 },
   { "NAMES",            "TK_NAMES",        ALWAYS                 },
-  { "SHOW",             "TK_SHOW",    ALWAYS                 },
+  { "SHOW",             "TK_SHOW",         ALWAYS                 },
   { "DATABASES",        "TK_DATABASES",    ALWAYS                 },
   { "SCHEMAS",          "TK_SCHEMAS",      ALWAYS                 },
   { "TABLES",           "TK_TABLES",       ALWAYS                 },
-  { "STATUS",           "TK_STATUS",       ALWAYS                 },
   { "VARIABLES",        "TK_VARIABLES",    ALWAYS                 },
   { "COLLATION",        "TK_COLLATION",    ALWAYS                 },
 };
